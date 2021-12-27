@@ -1,36 +1,40 @@
 # Tatyana Ivanova
 
-## Contacts:
+## Contacts
 
 * ### Tel: +79650023913
+
 * ### E-mail: tat.mi.iva@gmail.com
+
 * ### GitHub: @tatty13
 
 ---
 
-## Education:
+## Education
 
-* Herzen State Pedagogical University of Russia, St.Petersburg, 2012-2016, Bachelor's degree in Russian Philology 
+* Herzen State Pedagogical University of Russia, St.Petersburg, 2012-2016, Bachelor's degree in Russian Philology
 
 * Courses
-    * Learning How To Learn, 2021
-    * HTML and CSS basic on netology.com, 2021
-    * Frontend Developer course from RS-School (in progress)
+
+  * Learning How To Learn, 2021
+  * HTML and CSS basic on netology.com, 2021
+  * Frontend Developer course from RS-School (in progress)
 
 ---
 
 ## Skills
 
 * Hard skills
-    * HTML basic
-    * CSS basic
+
+  * HTML basic
+  * CSS basic
 
 * Soft skills
-    * Sociableness
-    * Responsibility
-    * Learning ability
-    * Teamwork
-    * Critical thinking
+
+  * Sociableness
+  * Responsibility
+  * Learning ability
+  * Teamwork
+  * Critical thinking
 
 ---
-
