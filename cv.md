@@ -18,3 +18,19 @@
     * Frontend Developer course from RS-School (in progress)
 
 ---
+
+## Skills
+
+* Hard skills
+    * HTML basic
+    * CSS basic
+
+* Soft skills
+    * Sociableness
+    * Responsibility
+    * Learning ability
+    * Teamwork
+    * Critical thinking
+
+---
+
