@@ -4,28 +4,25 @@
 }
 
 body {
-    background-color: #1a1919;
+    background-color: #1c1c1b;
     font-family: Arial, Helvetica, sans-serif;
-    color: #1a1919;
+    color: #1c1c1b;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+
 }
 
 header {
+    width: 95%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row-reverse;
     flex-wrap: wrap;
     padding: 5%;
-}
-section {
-    background-color: #c7c0bb;
-    margin: 3%;
-    padding: 3%;
-    display: flex;
-    justify-content: start;
-    flex-direction: row;
-    flex-wrap: wrap;
-    line-height: 150%;
 }
 
 h1 {
@@ -39,37 +36,60 @@ img {
     border-radius: 50%;
 }
 
-.bold-font {
-    font-weight: 600;
+main {
+    width: 950%;
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content:center;
 }
 
-.contacts {
+section {
+    width: 100%;
+    background-color: #c7c0bb;
+    margin: 2%;
+    padding: 3%;
     display: flex;
     justify-content: space-around;
     align-items: center;
     flex-direction: row;
-    flex-wrap: wrap;  
-    align-content: stretch;
-}
-
-.edu {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
     flex-wrap: wrap;
+    align-content: center;
+    line-height: 200%;
+    font-size: 1.1em;
 }
 
-.edu-main {
-    padding: 1%;
-    align-self: 1;
+
+h2 {
+    padding: 1.8%;
+    font-size: 1.8em;
 }
 
-.edu-add {
-    padding: 1%;
-    align-self: 3;
+.contacts {
+    font-size: 1.2em;
 }
 
-.list {
-    padding: 5%;
+.border {
+    padding-right: 10%;
+    border-right: 1px solid #1c1c1b;
+}
+
+.bold-font {
+    font-weight: 600;
+}
+
+.list, .hard-skills, .soft-skills {
     list-style-type: square;
+    padding-left: 5%;
+}
+
+.skills, .lang {
+    width: 40%;
+}
+
+a {
+    text-decoration: none;
+    color: #1c1c1b;
 }
