@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1c1c1b;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1c1c1b;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+header {
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    padding: 5%;
+}
+
+h1 {
+    color: #c7c0bb;
+    font-size: 3em;
+    padding: 5%;
+}
+
+img {
+    border: 0px solid #1a1919;
+    border-radius: 50%;
+}
+
+main {
+    width: 950%;
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content:center;
+}
+
+footer {
+    background-color: #c7c0bb;
+    width: 100%;
+    margin: 0%;
+    padding: 3%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+section {
+    width: 100%;
+    background-color: #c7c0bb;
+    margin: 2%;
+    padding: 3%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    line-height: 200%;
+    font-size: 1.1em;
+}
+
+
+h2 {
+    padding: 1.8%;
+    font-size: 1.8em;
+}
+
+.contacts {
+    font-size: 1.2em;
+}
+
+.border {
+    padding-right: 10%;
+    border-right: 1px solid #1c1c1b;
+}
+
+.bold-font {
+    font-weight: 600;
+}
+
+.list, .hard-skills, .soft-skills {
+    list-style-type: square;
+    padding-left: 5%;
+}
+
+.skills, .lang {
+    width: 40%;
+}
+
+a {
+    text-decoration: none;
+    color: #1c1c1b;
+}
